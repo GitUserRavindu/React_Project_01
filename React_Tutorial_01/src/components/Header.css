@@ -1,0 +1,37 @@
+header {
+    max-height: 90px;
+    padding: 25px 30px 30px 25px;
+    display: flex;
+    align-items: center;
+
+    background-color: #21222A;
+}
+
+.nav {   
+    display: flex;
+    align-items: center;
+    width: 100%;
+
+    /* background-color: #888888; */
+}
+
+.nav-logo {
+    width: 50px;
+    margin-right: 7px;
+
+    /* background-color: aquamarine; */
+}
+
+.nav-h3 {
+    color: #61DAFB;
+    font-size: 22px;
+    margin-right: auto;
+
+    /* background-color:bisque; */
+}
+
+.nav-h4 {
+    color: #DEEBF8;
+
+    /* background-color: aquamarine; */
+}

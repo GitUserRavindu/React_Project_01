@@ -1,0 +1,32 @@
+main {
+    min-height: calc(100vh - 205px - 50px);
+    background-color: #282D35;
+    color: #ffffff;
+    padding: 60px 30px 50px 30px;
+    background-image: url("../assets/react-logo-large.png");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right center;
+}
+
+.main-h1 {
+    /* background-color: #4e6b99; */
+    font-size: 40px;
+}
+
+.main-list {
+    /* background-color: aquamarine; */
+    padding: 30px 30px 40px 30px;
+}
+
+.main-list li {
+    max-width: 60%;
+    padding: 5px 0;
+    /* background-color: #c661d7; */
+}
+
+.main-list li::marker {
+    color: #61DAFB;
+    font-size: 20px;
+}
+
